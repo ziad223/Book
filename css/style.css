@@ -37,6 +37,9 @@ body {
 .dark .nav .menu {
   color: #fff;
 }
+.dark .nav ul{
+  background-color: #222;
+}
 .dark .nav a {
   color: #fff;
 }
@@ -603,7 +606,7 @@ nav .right-nav i {
     flex-direction: column;
     gap: 30px;
     position: absolute;
-    top: 80px;
+    top: 62px;
     width: 300px;
     left: -350px;
     background-color: #ccc;
