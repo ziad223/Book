@@ -537,6 +537,10 @@ nav .right-nav i {
 .testimonails .testimonail i {
   color: gold;
 }
+.testimonails .testimonail p {
+  width: 80%;
+  margin: 20px auto;
+}
 .testimonails .testimonail > * {
   margin-bottom: 20px;
 }
