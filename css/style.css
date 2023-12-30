@@ -11,6 +11,9 @@ body {
   width: 90%;
   margin: 100px auto;
 }
+html{
+  scroll-behavior: smooth;
+}
 .swiper-button-next {
   background-color: #0167f3;
   color: #fff;
